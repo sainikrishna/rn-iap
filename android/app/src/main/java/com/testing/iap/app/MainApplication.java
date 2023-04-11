@@ -1,4 +1,4 @@
-package com.iaptest;
+package com.testing.iap.app;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

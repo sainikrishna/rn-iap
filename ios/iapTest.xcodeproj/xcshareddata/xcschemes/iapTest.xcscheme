@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "iapTest.app"
-               BlueprintName = "iapTest"
-               ReferencedContainer = "container:iapTest.xcodeproj">
+               BuildableName = "IAPTest.app"
+               BlueprintName = "IAPTest"
+               ReferencedContainer = "container:IAPTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "iapTestTests.xctest"
-               BlueprintName = "iapTestTests"
-               ReferencedContainer = "container:iapTest.xcodeproj">
+               BuildableName = "IAPTestTests.xctest"
+               BlueprintName = "IAPTestTests"
+               ReferencedContainer = "container:IAPTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "iapTest.app"
-            BlueprintName = "iapTest"
-            ReferencedContainer = "container:iapTest.xcodeproj">
+            BuildableName = "IAPTest.app"
+            BlueprintName = "IAPTest"
+            ReferencedContainer = "container:IAPTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "iapTest.app"
-            BlueprintName = "iapTest"
-            ReferencedContainer = "container:iapTest.xcodeproj">
+            BuildableName = "IAPTest.app"
+            BlueprintName = "IAPTest"
+            ReferencedContainer = "container:IAPTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
